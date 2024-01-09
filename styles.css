@@ -1,0 +1,23 @@
+/* External CSS for styling */
+body {
+   font-family: 'Roboto', sans-serif;
+   color: white;
+   background-color: #121419;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+
+h1 {
+   margin: 0;
+   font-family: 'Roboto', sans-serif;
+   font-size: 15em;
+}
+
+.red-text {
+   color: red;
+}
