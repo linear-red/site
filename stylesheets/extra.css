@@ -1,0 +1,8 @@
+.md-header__topic:first-child {
+   font-weight: 500;
+   /* font-size: 2vh; */
+}
+
+.md-red__text {
+   color: red;
+}
